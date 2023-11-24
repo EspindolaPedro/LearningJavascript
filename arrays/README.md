@@ -12,7 +12,7 @@ PRATICANDO ARRAYS
  ]
  *Com base neste array, nós queremos:
  1º Filtrar o nome das naves que tem mais de 9 tripulantes
- 2º Informar o número da plataforma em que está a primeira nave que aidna está com engate pendente
+ 2º Informar o número da plataforma em que está a primeira nave que ainda está com engate pendente
     utilize a função findIndex, que é bem parecida com o find, mas retorna o índice de um filtro em vez do elemento do array
 3º Destacar o nome de todas as naves colocando-as em caixa alta e exibindo
 4º Exibir um alerta com todos estas informações.
