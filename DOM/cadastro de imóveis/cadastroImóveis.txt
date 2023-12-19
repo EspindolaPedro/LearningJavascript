@@ -1,0 +1,28 @@
+Praticando DOM
+
+Neste exercício estaremos ainda mais perto de como uma aplicação web REAL trabalha. Vamos fazer um sistema
+de cadastro de imóveis para uma corretora.
+
+Uma corretora solicitou um sistema onde ela pudesse cadastrar imóoveis para serem exibidos aos seus clientes.
+
+Para cadastrar um imóvel, é necessário passar as seguintes informações: Informar o tipo(se é casa ou apartamento)
+a área e se está alugado.
+
+Após o cadastro do imóvel, o formulário deve ser limpo para o próximos cadastro.
+
+abaixo deste dorm, deve haver uma lista com os imóveis que já foram cadastrados e esta lista deve ser atualizada
+assim que o imóvel é criado no formulário.
+
+Nesta lista, os imóveis alugados deve estar com a marcação "Alugado" antes da primeira informação, com fundo
+vermelho e letras brancas.
+
+A corretora também deseja poder remover um imóvel cadastrado previamente clicando num botão na lista de imóveis
+
+Para fazer este sistema, você precisa aplicar seus conhecimentos de:
+Classes: queremos no mínimo duas classes nesta aplicação
+    Uma para o imóvel e outra para a aplicação.
+    Somente uma classe por arquivo.
+    Você pode criar mias classes, além destas duas, se for necessário.
+
+Manipulação de DOM
+Chamada de eventos a partir do HTML

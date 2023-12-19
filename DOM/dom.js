@@ -15,6 +15,7 @@ function saveHouse() {
     removeButton.type = "button"
     removeButton.innerText = "Remover"
     removeButton.setAttribute("onclick", "removeHouse(this)")
+    
 
     //ACRESCENTANDO NO ELEMENTO newlist O ELEMENTO removeButton
     newlist.appendChild(removeButton)
